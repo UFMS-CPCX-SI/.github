@@ -3,6 +3,8 @@
 > do curso de Sistemas de Informação na cidade de Coxim-MS.
 > Temos como objetivo criar projetos para aprendizado e simulação de mercado!
 
+![image](https://img.shields.io/badge/UFMS-2962FF?style=for-the-badge&logo=git&logoColor=white)
+
 <!--
 
 **Here are some ideas to get you started:**
