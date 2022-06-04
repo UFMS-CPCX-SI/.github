@@ -1,4 +1,6 @@
-## Quem somos?
+<img src="https://avatars.githubusercontent.com/u/106643709?s=400&u=13ee3fc87aeee0c2b8bae1a83b28a504e239ee35&v=4" width="100px"/>
+
+ ## Quem somos?
  * Somos um grupo de acadêmicos, docentes e amigos da Universidade Federal de Mato Grosso do Sul,
  do curso de Sistemas de Informação na cidade de Coxim-MS.
  * Temos como objetivo criar projetos para aprendizado e simulação de mercado!
